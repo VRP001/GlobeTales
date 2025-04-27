@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "Capital": "Tokyo",
+    "Population": "125 million",
+    "interestingFact": "Vending machines are everywhere - even for eggs and umbrellas"
+  },
+  {
+    "id": 2,
+    "countryName": "Canada",
+    "Capital": "Ottawa",
+    "Population": "39 million",
+    "interestingFact": "Has more lakes than the rest of the world combined"
+  },
+  {
+    "id": 3,
+    "countryName": "Australia",
+    "Capital": "Canberra",
+    "Population": "26 million",
+    "interestingFact": "Home to more kangaroos than people in this country "
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "Capital": "Brasília",
+    "Population": "216 million",
+    "interestingFact": "The Amazon rainforest produces 20% of the world's oxygen"
+  },
+  {
+    "id": 5,
+    "countryName": "Egypt",
+    "Capital": "Cairo",
+    "Population": "111 million",
+    "interestingFact": "Ancient Egyptians invented toothpaste and the 365-day calendar"
+  },
+  {
+    "id": 6,
+    "countryName": "Norway",
+    "Capital": "Oslo",
+    "Population": "5.5 million",
+    "interestingFact": "Has a town where the sun doesn’t rise for 2 months a year"
+  },
+  {
+    "id": 7,
+    "countryName": "Switzerland",
+    "Capital": "Bern",
+    "Population": "8.9 million",
+    "interestingFact": "Home to the world’s longest staircase—11,674 steps"
+  },
+  {
+    "id": 8,
+    "countryName": "India",
+    "Capital": "New Delhi",
+    "Population": "1.43 billion",
+    "interestingFact": "Has the world's largest postal network with over 150,000 post offices"
+  }
+]
